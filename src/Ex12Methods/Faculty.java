@@ -1,4 +1,4 @@
-package Method;
+package Ex12Methods;
 
 public class Faculty extends Student {
 
@@ -6,6 +6,7 @@ public class Faculty extends Student {
         super(name);
     }
 
+    @Override
     public void action() {
         System.out.println(getName() + " studies physics");
     }

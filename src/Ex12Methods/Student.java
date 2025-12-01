@@ -1,4 +1,4 @@
-package Method;
+package Ex12Methods;
 
 public class Student {
 

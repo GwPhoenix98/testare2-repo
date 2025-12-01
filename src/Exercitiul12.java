@@ -1,4 +1,4 @@
-import Method.Student;
+import Ex12Methods.Student;
 
 public class Exercitiul12 {
     public static void main(String[] args) {
